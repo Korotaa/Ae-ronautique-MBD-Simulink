@@ -1,0 +1,12 @@
+Ce = 0.08737; %en pF
+Cm = ;
+Ca_CIC = ;
+R_FTS = ;
+Fp_Corr_factor1 = 1;
+K2_CIC = 1;
+FTS_a = 1;
+FTS_b = 0.005;
+Alpha = 0.08737;
+teta_Ad = -0.001416665;
+teta_Bd = 2.11;
+ 
