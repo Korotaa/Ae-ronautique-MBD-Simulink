@@ -1,4 +1,7 @@
-﻿**Modélisation d’un Système de carburant d’avion**
+### **Binome : Dodo Mamane Abari**
+
+
+ **Modélisation d’un Système de carburant d’avion**
 
 ![](./markdown_img/Aspose.Words.bd2314d6-2f07-4a67-93ef-1625283f4565.001.jpeg)
 
